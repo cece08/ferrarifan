@@ -1,0 +1,1 @@
+$('.imgcircul').tilt({speed: 1000  , cale:1.1});
